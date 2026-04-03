@@ -1,5 +1,5 @@
 {
-    "name": "inter/sdk",
+    "name": "webflixtec/bancointerpj",
     "description": "SDK PHP",
     "autoload": {
         "psr-4": {
