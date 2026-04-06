@@ -2,7 +2,7 @@
 
 ## Instalação
 ```console
-composer install webflixtec/bancointerpj
+composer require webflixtec/bancointerpj
 ```
 
 ## Como usar
